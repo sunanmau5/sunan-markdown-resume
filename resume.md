@@ -15,7 +15,7 @@ subject: 'Subject'
 ---
 ###### [[sunanmau5's GitHub](https://github.com/sunanmau5)] . [sunan.regi@gmail.com] . [+49 178 7700 606]
 
-### I am a Full Stack Developer with experience in both frontend and backend development, currently employed at marta GmbH in Berlin, Germany.
+#### I am a Full Stack Developer with experience in both frontend and backend development, currently employed at marta GmbH in Berlin, Germany.
 
 ## Experience
 
@@ -26,8 +26,8 @@ Nov 2022 - present, Berlin, Germany
 #### Frontend
 - Led the development of features for the Partner App, empowering external partners to manage caregiver and family accounts seamlessly
 - Implemented a Caregiver PDF document interface using `react-pdf`, enhancing accessibility to caregiver information
-- Enhanced user feedback mechanisms with the _"Decline Reason"_ feature, facilitating insights into match failures
-- Facilitated transparent negotiations between families and caregivers through the _"Offer / Counter-Offer"_ feature
+- Enhanced user feedback mechanisms with the "Decline Reason" feature, facilitating insights into match failures
+- Facilitated transparent negotiations between families and caregivers through the "Offer / Counter-Offer" feature
 - Optimized caregiver opportunities management with the Caregiver Opportunities Grid feature, utilizing TanStack Query for efficiency
 - Improved user engagement with customized inquiry forms (Yankee and Zulu) tailored for increased conversion rates
 
@@ -35,7 +35,7 @@ Nov 2022 - present, Berlin, Germany
 - Migrated form and field validation data from Google Sheets to a PostgreSQL database, eliminating external dependencies and centralizing data management.
 - Implemented a flexible structure for profile form screens, supporting conditional rendering and efficient caching for enhanced performance.
 - Developed secure server-side rendering of caregiver PDF documents, providing expiring URLs for controlled access
-- Implemented backend functionality for the _"Decline Reason"_ and _"Offer / Counter-Offer"_ features
+- Implemented backend functionality for the "Decline Reason" and "Offer / Counter-Offer" features
 - Automated caregiver suggestions to families based on matching scores with a daily cron job, enhancing matching efficiency
 
 **Technologies used:** Next.js, PostgreSQL, React, TypeScript, React Native, CSS Modules, Git, Jest, Radix UI, TanStack Query
@@ -46,8 +46,8 @@ Mar 2021 - Oct 2022, Berlin, Germany
 
 #### Frontend
 - Designed and implemented several operational dashboards within marta's internal application
-- Designed and implemented a _"Families in Matching"_ feature to expedite the pairing of families with caregivers
-- Designed and implemented a _"Caregivers in Matching"_ feature to match caregivers with families faster
+- Designed and implemented a "Families in Matching" feature to expedite the pairing of families with caregivers
+- Designed and implemented a "Caregivers in Matching" feature to match caregivers with families faster
 - Developed a caregiver feedback system to enhance service quality
 
 #### Backend
@@ -62,8 +62,8 @@ Mar 2021 - Oct 2022, Berlin, Germany
 
 Mar 2019 - Sep 2022, Berlin, Germany
 
-- Developed _Nature Quest_ - a conceptual 2D game to teach environmental awareness, built with Unity
-- Developed _Filtre_ - a Chrome Extension for filter suggestions based on visited URL query parameters, built with React TypeScript
+- Developed Nature Quest - a conceptual 2D game to teach environmental awareness, built with Unity
+- Developed Filtre - a Chrome Extension for filter suggestions based on visited URL query parameters, built with React TypeScript
 - Contributed to developing the frontend of an ongoing project, utilizing micro-frontend architecture, for real-time analysis of the German election through Twitter API
 - Final grade: 1,7
 
