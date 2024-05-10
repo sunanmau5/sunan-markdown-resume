@@ -3,75 +3,75 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Your Resume in Markdown
+title: Sunan Regi Maunakea
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
 keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
+  - 'react'
+  - 'typescript'
+  - 'postgresql'
 author:
-- I am the author
+- sunanmau5
 subject: 'Subject'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+###### [[sunanmau5's GitHub](https://github.com/sunanmau5)] . [sunan.regi@gmail.com] . [+49 178 7700 606]
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
-
-## Skills
-
-```programming```
-```devops```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-```WordPress```
-
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
+### I am a Full Stack Developer with experience in both frontend and backend development, currently employed at marta GmbH in Berlin, Germany.
 
 ## Experience
 
-### CEO and Founder, Pied Piper
+### Full Stack Developer, marta GmbH
 
-start-date-end-date, City, State and remote
+Nov 2022 - present, Berlin, Germany
 
-- Things you did/do here
-- More things that you do here.
+#### Frontend
+- Led the development of features for the Partner App, empowering external partners to manage caregiver and family accounts seamlessly
+- Implemented a Caregiver PDF document interface using `react-pdf`, enhancing accessibility to caregiver information
+- Enhanced user feedback mechanisms with the _"Decline Reason"_ feature, facilitating insights into match failures
+- Facilitated transparent negotiations between families and caregivers through the _"Offer / Counter-Offer"_ feature
+- Optimized caregiver opportunities management with the Caregiver Opportunities Grid feature, utilizing TanStack Query for efficiency
+- Improved user engagement with customized inquiry forms (Yankee and Zulu) tailored for increased conversion rates
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+#### Backend
+- Migrated form and field validation data from Google Sheets to a PostgreSQL database, eliminating external dependencies and centralizing data management.
+- Implemented a flexible structure for profile form screens, supporting conditional rendering and efficient caching for enhanced performance.
+- Developed secure server-side rendering of caregiver PDF documents, providing expiring URLs for controlled access
+- Implemented backend functionality for the _"Decline Reason"_ and _"Offer / Counter-Offer"_ features
+- Automated caregiver suggestions to families based on matching scores with a daily cron job, enhancing matching efficiency
 
-### Senior Software Architect, Hooli
+**Technologies used:** Next.js, PostgreSQL, React, TypeScript, React Native, CSS Modules, Git, Jest, Radix UI, TanStack Query
 
-2010-2016, San Francisco, CA
+### Working Student Developer, marta GmbH
 
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
+Mar 2021 - Oct 2022, Berlin, Germany
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+#### Frontend
+- Designed and implemented several operational dashboards within marta's internal application
+- Designed and implemented a _"Families in Matching"_ feature to expedite the pairing of families with caregivers
+- Designed and implemented a _"Caregivers in Matching"_ feature to match caregivers with families faster
+- Developed a caregiver feedback system to enhance service quality
 
-## Awards & Recognition
+#### Backend
+- Managed and maintained the Finite State Machine, vital for the application's business logic
+- Implemented a Daily KPI dashboard that is supplied through a cron job to monitor performance metrics.
 
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
-
-## Projects
-
-**[*Personal Blog*](http://luther.io)** (2021-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+**Technologies used:** Next.js, PostgreSQL, React, TypeScript, React Native, CSS Modules, Git, Chai, Sinon.JS
 
 ## Education
 
-### Masters in BS, Example University
+### Computer Science B.Sc., HTW Berlin University of Applied Sciences
 
-- 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
+Mar 2019 - Sep 2022, Berlin, Germany
+
+- Developed _Nature Quest_ - a conceptual 2D game to teach environmental awareness, built with Unity
+- Developed _Filtre_ - a Chrome Extension for filter suggestions based on visited URL query parameters, built with React TypeScript
+- Contributed to developing the frontend of an ongoing project, utilizing micro-frontend architecture, for real-time analysis of the German election through Twitter API
+- Final grade: 1,7
+
+## Skills
+- **Languages**: JavaScript; TypeScript; HTML/CSS\
+- **Libraries**: React.js; Radix UI; TanStack Query\
+- **Frameworks/Runtime environments**: Next.js; Node.js; CircleCI, CSS Modules, React Native\
+- **Testing**: Sinon.JS, Chai, Jest\
+- **Version Control System**: Git\
+- **Principles**: RESTful APIs\
+- **Database Management System (DBMS)**: PostgreSQL
