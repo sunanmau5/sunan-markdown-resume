@@ -15,8 +15,6 @@ subject: 'Subject'
 ---
 ###### [[sunanmau5's GitHub](https://github.com/sunanmau5)] . [sunan.regi@gmail.com] . [+49 178 7700 606]
 
-#### I am a Full Stack Developer with experience in both frontend and backend development, currently employed at marta GmbH in Berlin, Germany.
-
 ## Experience
 
 ### Full Stack Developer, marta GmbH
