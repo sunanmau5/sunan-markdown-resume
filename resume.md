@@ -29,8 +29,6 @@ Nov 2022 - present, Berlin, Germany
 - Implemented a flexible structure for profile form screens, supporting conditional rendering and efficient caching to enhance performance.
 - Developed secure server-side rendering of PDF documents, providing expiring URLs for controlled access.
 
-**Technologies used:** Next.js, PostgreSQL, React, TypeScript, React Native, CSS Modules, Git, Jest, Radix UI, TanStack Query
-
 ### Working Student Developer, marta GmbH
 
 Mar 2021 - Oct 2022, Berlin, Germany
@@ -40,8 +38,6 @@ Mar 2021 - Oct 2022, Berlin, Germany
 - Implemented a caregiver feedback system to enhance service quality and gather actionable insights.
 - Managed and maintained the Finite State Machine, vital for the application's business logic.
 - Developed a Daily KPI dashboard, supplied via a cron job, to monitor and report performance metrics.
-
-**Technologies used:** Next.js, PostgreSQL, React, TypeScript, React Native, CSS Modules, Git, Chai, Sinon.JS
 
 ## Education
 
