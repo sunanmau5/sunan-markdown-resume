@@ -34,7 +34,7 @@ Nov 2022 - present, Berlin, Germany
 Mar 2021 - Oct 2022, Berlin, Germany
 
 - Designed and implemented several operational dashboards within marta's internal application.
-- Designed and implemented a "Families in Matching" and "Caregivers in Matching" features to expedite the pairing of families with caregivers.
+- Designed and implemented "Families in Matching" and "Caregivers in Matching" features to expedite the pairing of families with caregivers.
 - Implemented a caregiver feedback system to enhance service quality and gather actionable insights.
 - Managed and maintained the Finite State Machine, vital for the application's business logic.
 - Developed a Daily KPI dashboard, supplied via a cron job, to monitor and report performance metrics.
