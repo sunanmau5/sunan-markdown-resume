@@ -23,13 +23,10 @@ subject: 'Subject'
 
 Nov 2022 - present, Berlin, Germany
 
-#### Frontend
 - Led the development of key features for the Partner App, enabling external partners to manage caregiver and family accounts seamlessly.
 - Enhanced user feedback mechanisms by developing the "Decline Reason" feature, providing insights into match failures.
 - Facilitated transparent negotiations between families and caregivers through the "Offer / Counter-Offer" feature.
-- Increased user engagement with customized inquiry forms (Yankee and Zulu), tailored to boost conversion rates.
-
-#### Backend
+- Increased user engagement with customized inquiry forms tailored to boost conversion rates.
 - Migrated form and field validation data from Google Sheets to a PostgreSQL database, centralizing data management and reducing external dependencies.
 - Implemented a flexible structure for profile form screens, supporting conditional rendering and efficient caching to enhance performance.
 - Developed secure server-side rendering of PDF documents, providing expiring URLs for controlled access.
@@ -40,13 +37,10 @@ Nov 2022 - present, Berlin, Germany
 
 Mar 2021 - Oct 2022, Berlin, Germany
 
-#### Frontend
-- Designed and implemented several operational dashboards within marta's internal application
-- Designed and implemented a "Families in Matching" and "Caregivers in Matching" features to expedite the pairing of families with caregivers
+- Designed and implemented several operational dashboards within marta's internal application.
+- Designed and implemented a "Families in Matching" and "Caregivers in Matching" features to expedite the pairing of families with caregivers.
 - Implemented a caregiver feedback system to enhance service quality and gather actionable insights.
-
-#### Backend
-- Managed and maintained the Finite State Machine, vital for the application's business logic
+- Managed and maintained the Finite State Machine, vital for the application's business logic.
 - Developed a Daily KPI dashboard, supplied via a cron job, to monitor and report performance metrics.
 
 **Technologies used:** Next.js, PostgreSQL, React, TypeScript, React Native, CSS Modules, Git, Chai, Sinon.JS
