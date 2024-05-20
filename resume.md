@@ -24,19 +24,15 @@ subject: 'Subject'
 Nov 2022 - present, Berlin, Germany
 
 #### Frontend
-- Led the development of features for the Partner App, empowering external partners to manage caregiver and family accounts seamlessly
-- Implemented a Caregiver PDF document interface using `react-pdf`, enhancing accessibility to caregiver information
-- Enhanced user feedback mechanisms with the "Decline Reason" feature, facilitating insights into match failures
-- Facilitated transparent negotiations between families and caregivers through the "Offer / Counter-Offer" feature
-- Optimized caregiver opportunities management with the Caregiver Opportunities Grid feature, utilizing TanStack Query for efficiency
-- Improved user engagement with customized inquiry forms (Yankee and Zulu) tailored for increased conversion rates
+- Led the development of key features for the Partner App, enabling external partners to manage caregiver and family accounts seamlessly.
+- Enhanced user feedback mechanisms by developing the "Decline Reason" feature, providing insights into match failures.
+- Facilitated transparent negotiations between families and caregivers through the "Offer / Counter-Offer" feature.
+- Increased user engagement with customized inquiry forms (Yankee and Zulu), tailored to boost conversion rates.
 
 #### Backend
-- Migrated form and field validation data from Google Sheets to a PostgreSQL database, eliminating external dependencies and centralizing data management.
-- Implemented a flexible structure for profile form screens, supporting conditional rendering and efficient caching for enhanced performance.
-- Developed secure server-side rendering of caregiver PDF documents, providing expiring URLs for controlled access
-- Implemented backend functionality for the "Decline Reason" and "Offer / Counter-Offer" features
-- Automated caregiver suggestions to families based on matching scores with a daily cron job, enhancing matching efficiency
+- Migrated form and field validation data from Google Sheets to a PostgreSQL database, centralizing data management and reducing external dependencies.
+- Implemented a flexible structure for profile form screens, supporting conditional rendering and efficient caching to enhance performance.
+- Developed secure server-side rendering of PDF documents, providing expiring URLs for controlled access.
 
 **Technologies used:** Next.js, PostgreSQL, React, TypeScript, React Native, CSS Modules, Git, Jest, Radix UI, TanStack Query
 
@@ -46,13 +42,12 @@ Mar 2021 - Oct 2022, Berlin, Germany
 
 #### Frontend
 - Designed and implemented several operational dashboards within marta's internal application
-- Designed and implemented a "Families in Matching" feature to expedite the pairing of families with caregivers
-- Designed and implemented a "Caregivers in Matching" feature to match caregivers with families faster
-- Developed a caregiver feedback system to enhance service quality
+- Designed and implemented a "Families in Matching" and "Caregivers in Matching" features to expedite the pairing of families with caregivers
+- Implemented a caregiver feedback system to enhance service quality and gather actionable insights.
 
 #### Backend
 - Managed and maintained the Finite State Machine, vital for the application's business logic
-- Implemented a Daily KPI dashboard that is supplied through a cron job to monitor performance metrics.
+- Developed a Daily KPI dashboard, supplied via a cron job, to monitor and report performance metrics.
 
 **Technologies used:** Next.js, PostgreSQL, React, TypeScript, React Native, CSS Modules, Git, Chai, Sinon.JS
 
@@ -62,10 +57,11 @@ Mar 2021 - Oct 2022, Berlin, Germany
 
 Mar 2019 - Sep 2022, Berlin, Germany
 
-- Developed Nature Quest - a conceptual 2D game to teach environmental awareness, built with Unity
-- Developed Filtre - a Chrome Extension for filter suggestions based on visited URL query parameters, built with React TypeScript
-- Contributed to developing the frontend of an ongoing project, utilizing micro-frontend architecture, for real-time analysis of the German election through Twitter API
-- Final grade: 1,7
+- Developed **Nature Quest**, a 2D educational game promoting environmental awareness, using Unity.
+- Created **Filtre**, a Chrome Extension offering filter suggestions based on URL query parameters, using React and TypeScript.
+- Contributed to a micro-frontend architecture project for real-time analysis of German election data through the Twitter API.
+- Completed studies in German.
+- Final Grade: 1.7
 
 ## Skills
 - **Languages**: JavaScript; TypeScript; HTML/CSS\
