@@ -21,9 +21,9 @@ subject: 'Subject'
 
 Nov 2022 - present, Berlin, Germany
 
-- Led the development of key features for the Partner App, enabling external partners to manage caregiver and family accounts seamlessly.
-- Enhanced user feedback mechanisms by developing the "Decline Reason" feature, providing insights into match failures.
-- Facilitated transparent negotiations between families and caregivers through the "Offer / Counter-Offer" feature.
+- Led the development of key features for the B2B app, enabling external partners to manage caregiver and family accounts seamlessly.
+- Enhanced user feedback mechanisms by developing a feature that provides insights into match failures.
+- Enabled transparent negotiations between families and caregivers, boosting user engagement by 38.22% and eliminating the intermediary.
 - Increased user engagement with customized inquiry forms tailored to boost conversion rates.
 - Migrated form and field validation data from Google Sheets to a PostgreSQL database, centralizing data management and reducing external dependencies.
 - Implemented a flexible structure for profile form screens, supporting conditional rendering and efficient caching to enhance performance.
@@ -33,9 +33,9 @@ Nov 2022 - present, Berlin, Germany
 
 Mar 2021 - Oct 2022, Berlin, Germany
 
-- Designed and implemented several operational dashboards within marta's internal application.
-- Designed and implemented "Families in Matching" and "Caregivers in Matching" features to expedite the pairing of families with caregivers.
-- Implemented a caregiver feedback system to enhance service quality and gather actionable insights.
+- Designed and implemented several operational dashboards within marta's internal application, resulting in improved data visibility and more efficient decision-making processes.
+- Designed and developed several features to speed up the pairing of families with caregivers and enhance the quality of the matches.
+- Implemented a feedback system to enhance service quality and gather actionable insights.
 - Managed and maintained the Finite State Machine, vital for the application's business logic.
 - Developed a Daily KPI dashboard, supplied via a cron job, to monitor and report performance metrics.
 
