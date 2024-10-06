@@ -4,22 +4,30 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
 title: Sunan Regi Maunakea
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+description-meta: "This is the meta description for the HTML file, and one day the PDF file, for better SEO?"
 keywords:
-  - 'react'
-  - 'typescript'
-  - 'postgresql'
+  - "react"
+  - "typescript"
+  - "postgresql"
 author:
-- sunanmau5
-subject: 'Subject'
+  - sunanmau5
+subject: "Subject"
 ---
+
 ###### [[sunanmau5's GitHub](https://github.com/sunanmau5)] . [sunan.regi@gmail.com] . [+49 178 7700 606]
 
 ## Experience
 
+### Senior Full Stack Developer, marta GmbH
+
+Aug 2024 - present, Berlin, Germany
+
+- Migrated a serverless application to a dockerized container, enhancing deployment efficiency and reliability.
+- Mentored team members through knowledge sharing and pair programming, boosting team skills and collaboration.
+
 ### Full Stack Developer, marta GmbH
 
-Nov 2022 - present, Berlin, Germany
+Nov 2022 - Jul 2024, Berlin, Germany
 
 - Led the development of partner account management features for the B2B app
 - Contributed in the extensive migration from a monolithic to a microservices architecture
@@ -53,6 +61,7 @@ Mar 2019 - Sep 2022, Berlin, Germany
 - Final Grade: 1.7
 
 ## Skills
+
 - **Languages**: English (C1); German (C1); Indonesian (Native)\
 - **Programming Languages**: JavaScript; TypeScript; HTML/CSS\
 - **Libraries**: React.js; Radix UI; TanStack Query\
