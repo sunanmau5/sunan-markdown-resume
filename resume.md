@@ -54,12 +54,6 @@ Mar 2021 - Oct 2022, Berlin, Germany
 
 Mar 2019 - Sep 2022, Berlin, Germany
 
-- Developed Nature Quest, a 2D educational game promoting environmental awareness, using Unity
-- Created Filtre, a Chrome Extension offering filter suggestions based on URL query parameters, using React and TypeScript
-- Contributed to a micro-frontend architecture project for real-time analysis of German election data through the Twitter API
-- Completed studies in German
-- Final Grade: 1.7
-
 ## Skills
 
 - **Languages**: English (C1); German (C1); Indonesian (Native)\
