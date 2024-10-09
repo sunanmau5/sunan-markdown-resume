@@ -23,6 +23,7 @@ subject: "Subject"
 Aug 2024 - present, Berlin, Germany
 
 - Migrated a serverless application to a dockerized container, enhancing deployment efficiency and reliability.
+- Implemented a flexible structure for profile forms, supporting conditional rendering and efficient caching to enhance performance
 - Mentored team members through knowledge sharing and pair programming, boosting team skills and collaboration.
 
 ### Full Stack Developer, marta GmbH
@@ -35,10 +36,9 @@ Nov 2022 - Jul 2024, Berlin, Germany
 - Implemented a user survey to collect data related to offer refusals after negotiations
 - Enhanced the inquiry forms, leading to an increase in user conversion rates by 70%
 - Migrated form and field validation data from Google Sheets to a PostgreSQL database, centralizing data management and reducing external dependencies
-- Implemented a flexible structure for profile forms, supporting conditional rendering and efficient caching to enhance performance
 - Developed secure server-side rendering of PDF documents, providing expiring URLs for controlled access
 
-### Working Student Developer, marta GmbH
+### Junior Full Stack Developer, marta GmbH
 
 Mar 2021 - Oct 2022, Berlin, Germany
 
