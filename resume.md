@@ -56,11 +56,12 @@ Mar 2019 - Sep 2022, Berlin, Germany
 
 ## Skills
 
-- **Languages**: English (C1); German (C1); Indonesian (Native)\
-- **Programming Languages**: JavaScript; TypeScript; HTML/CSS\
-- **Libraries**: React.js; Radix UI; TanStack Query\
-- **Frameworks/Runtime environments**: Next.js; Node.js; CircleCI, CSS Modules, React Native\
-- **Testing**: Sinon.JS, Chai, Jest\
-- **Version Control System**: Git\
-- **Principles**: RESTful APIs\
-- **Database Management System (DBMS)**: PostgreSQL
+- **Languages**: English (C1); German (C1); Indonesian (Native)
+- **Programming Languages**: JavaScript; TypeScript; HTML/CSS
+- **Frontend**: React.js; Next.js; React Native; Radix UI; TanStack Query; CSS Modules
+- **Backend**: Node.js; RESTful APIs; PostgreSQL
+- **Cloud & DevOps**:
+  - AWS: EKS, ECR, RDS, S3, SQS, SNS, Parameter Store, Secrets Manager, CloudWatch
+  - CI/CD: GitHub Actions, CircleCI
+- **Testing**: Jest; Sinon.JS; Chai
+- **Version Control**: Git
